@@ -16,9 +16,7 @@ public class CekAngka extends javax.swing.JFrame {
     private JButton checkButton;
     private JButton clearButton;
     private JLabel resultLabel;
-    /**
-     * Creates new form CA
-     */
+
     public CekAngka() {
                 initComponents();
         addEventListeners();
